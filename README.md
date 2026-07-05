@@ -8,6 +8,3 @@
 
 ## CampusCrew Recognition
 - 100K Milestone Honor Certificate
-
-## Internship
-- Web Development Internship
